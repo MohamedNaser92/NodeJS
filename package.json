@@ -1,7 +1,7 @@
 {
 	"name": "3.mongoos-express",
 	"version": "1.0.0",
-	"description": "Assignment 3",
+	"description": "Assignment 3 and 4" ,
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
